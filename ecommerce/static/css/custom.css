@@ -1,0 +1,48 @@
+.checkoutform label {
+    font-size: 16px !important;
+    font-weight: bold;
+}
+
+.checkoutform input {
+    font-size: 14px !important;
+}
+
+.search-bar {
+    width: 32% !important;
+    margin-left: 15%;
+}
+
+.cardbox-index {
+    margin-bottom: 2p !important;
+}
+* {
+    font-family: 'Lora', serif;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.product-viewtag {
+    background-color: red;
+    color: #fff;
+    font-size: 11px;
+    line-height: 1;
+    position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+    top: 22px;
+    margin-left: 17.5rem;
+    padding: 7px 10px;
+    font-weight: 600;
+    min-width: 45px;
+}
+
+.active {
+    font-weight: 900;
+}
+
+.button-index {
+    padding: 0%;
+}
